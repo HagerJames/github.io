@@ -3,5 +3,10 @@ body {
     background: black;
     text-align: center;
     color: white;
-    
+}
+
+p {
+ background: black;
+ text-align: center;
+ color: white;
 }
