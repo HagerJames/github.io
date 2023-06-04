@@ -5,3 +5,11 @@
     color: white;
     text-align: center;
 }
+
+
+.info {
+    background-color: rgb(100, 109, 179);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white; 
+    text-align: left;
+}
