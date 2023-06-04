@@ -1,22 +1,9 @@
-body {
-    margin: 0;
-    text-align: center;
-    color: white;
-    padding-top: 10%;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
+.land {
 
-p {
-
-    text-align: center;
-    color: white;
-    padding-top: 10%;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-}
-
-.div {
-background-image: url("MSU.png");
-
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+color: white;
+text-align: center;
+background-image: url("Back.jpg");
 
 }
 
