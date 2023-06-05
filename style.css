@@ -5,21 +5,23 @@ body {
 
 
 .land {
-
     background-color: dimgray;
-
     text-align: center;
-    margin-top: 10%;
 }
 
 
-.info {
+p.info {
     background-color: rgb(100, 109, 179);
     text-align: left;
-    padding-top: 10%;
-
+    float: right;
+}
 
 h2.info {
+    background-color: rgb(100, 109, 179);
     text-align: center;
+}
 
+img.info {
+    background-color: rgb(100, 109, 179);
+    float: left;
 }
