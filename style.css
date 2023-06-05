@@ -10,9 +10,10 @@ body {
 }
 
 
-p.info {
-    text-align: right;
-    float: right;
+.info {
+    background-color: rgb(100, 109, 179);
+    text-align: left;
+    padding-top: 10%;
 }
 
 h2.info {
